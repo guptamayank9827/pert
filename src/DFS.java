@@ -1,10 +1,10 @@
-package PERTPACKAGE;
+package src;
 
 import java.io.File;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-import PERTPACKAGE.Graph.*;
+import src.Graph.*;
 
 public class DFS extends Graph.GraphAlgorithm<DFS.DFSVertex> {
 

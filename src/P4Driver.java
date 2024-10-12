@@ -1,4 +1,4 @@
-package PERTPACKAGE;
+package src;
 
 import java.util.Scanner;
 
